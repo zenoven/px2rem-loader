@@ -15,7 +15,7 @@ a [webpack](http://webpack.github.io/) loader for [px2rem](https://github.com/so
 
 ## Install
 
-`npm install px2rem-loader`
+`npm install px2rem-reloaded-loader`
 
 ## webpack config
 

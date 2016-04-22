@@ -1,6 +1,6 @@
 {
-  "name": "px2rem-loader",
-  "version": "0.1.6",
+  "name": "px2rem-reloaded-loader",
+  "version": "0.1.7",
   "description": "css post loader for px2rem",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,17 @@
     "webpack",
     "loader"
   ],
-  "author": "Jinjiang",
+  "author": {
+    "name": "zenoven",
+    "email": "zenoven@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jinjiang/px2rem-loader/issues"
+    "url": "https://github.com/zenoven/px2rem-loader/issues"
   },
-  "homepage": "https://github.com/Jinjiang/px2rem-loader",
+  "homepage": "https://github.com/zenoven/px2rem-loader",
   "dependencies": {
-    "px2rem": "~0.4.0",
+    "px2rem-reloaded": "~0.4.0",
     "loader-utils": "^0.2.7"
   },
   "devDependencies": {
