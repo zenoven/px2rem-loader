@@ -1,6 +1,6 @@
 {
   "name": "px2rem-reloaded-loader",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "css post loader for px2rem",
   "main": "index.js",
   "scripts": {
